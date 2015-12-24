@@ -1,2 +1,2 @@
 # vume
-this contains the display section
+this contains the display section.
